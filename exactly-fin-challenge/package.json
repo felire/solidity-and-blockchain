@@ -1,0 +1,15 @@
+{
+  "name": "exactly-finance-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "web3": "^1.6.1"
+  }
+}
